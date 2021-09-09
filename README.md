@@ -39,6 +39,6 @@ Brazilian, 24 years, passionate about technology, currently responsible for data
  
   ##
   
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/MarceeloFerreira/MarceeloFerreira/blob/output/github-contribution-grid-snake.svg)
  
 </div>
