@@ -5,7 +5,7 @@ Brazilian, 24 years, passionate about technology, currently responsible for data
 ##
 
 - 🔭 I’m currently working on infrastructure and data security.
-- 🌱 I’m currently learning Docker and C#!
+- 🌱 I’m currently learning React TypeScript!
 - 📫 How to reach me: maarceloferreira5@gmail.com
 
 ##
