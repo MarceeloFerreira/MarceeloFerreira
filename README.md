@@ -1,10 +1,10 @@
 ## Hi! I'am Marcelo Ferreira! 👋
 
-Brazilian, 24 years, passionate about technology, currently responsible for data servers and services of applications for business management.
+Brazilian, 25 years, passionate about technology, currently responsible for data servers and services of applications for business management.
 
 ##
 
-- 🔭 I’m currently working on infrastructure and data security.
+- 🔭 I’m currently working on infrastructure and Front-End Developer.
 - 🌱 I’m currently learning React TypeScript!
 - 📫 How to reach me: maarceloferreira5@gmail.com
 
