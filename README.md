@@ -1,11 +1,9 @@
 ## Hi! I'am Marcelo Ferreira! 👋
 
-Brazilian, 25 years, passionate about technology, currently responsible for data servers and services of applications for business management.
+Brazilian, 25 years, passionate about technology, currently working on Infrastructure on @Londrisoft
 
 ##
-
-- 🔭 I’m currently working on infrastructure and Front-End Developer.
-- 🌱 I’m currently learning React TypeScript!
+- 🌱 I’m currently learning Front-End Technologies, React.
 - 📫 How to reach me: maarceloferreira5@gmail.com
 
 ##
