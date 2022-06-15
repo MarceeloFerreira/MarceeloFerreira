@@ -1,11 +1,6 @@
 <h4 align="center">Hi!<br>My name is Marcelo Ferreira, Brazilian, 25y old.<br>Passionate about Techs and Games!<br>Currently working on Infrastructure and Front-End Developer at @Londrisoft</h4>
 
 ###
-<div align="center">
-  <img height="272" src="https://media2.giphy.com/media/k1Psl92gw7YPSPYFKm/giphy.gif"  />
-</div>
-
-###
 <h5 align="center">Social Medias</h5>
 
 ###
@@ -51,9 +46,6 @@
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false&username=MarceeloFerreira" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=MarceeloFerreira" height="150" alt="languages graph"  />
 </div>
-
-###
-<img href="https://github.com/MarceeloFerreira/MarceeloFerreira/blob/output/snake.svg" alt="Snake animation" />
 
 ###
 Profile Readme Generator
