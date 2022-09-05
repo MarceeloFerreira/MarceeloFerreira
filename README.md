@@ -1,4 +1,4 @@
-<h4 align="center">Hi!<br>My name is Marcelo Ferreira, Brazilian, 25y old.<br>Passionate about Techs and Games!<br>Currently working on Infrastructure and Front-End Developer at @Londrisoft</h4>
+<h4 align="center">Hi!<br>My name is Marcelo Ferreira, Brazilian, 25y old.<br>Passionate about Techs and Games!<br>Currently working with Front-End Developer on @Wiley</h4>
 
 ###
 <h5 align="center">Social Medias</h5>
