@@ -1,5 +1,7 @@
 # 💫 About Me
-🔭 I’m currently working at Wiley<br>🌱 I’m currently workign with React, Vue, JavaScript, Typescript, Jest and others techs.<br>💬 Ask me about react and typescript.<br>⚡ Passionate about Techs and games!
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi!;My+name+is+Marcelo+Ferreira;Front-End+Developer;React+%7C+Vue+%7C+Vite+%7C+JavaScript+%7C+TypeScript&font=Fira+Code&size=24&pause=2000" alt="Typing SVG" />
+</a>
 
 
 ## 🌐 Socials
