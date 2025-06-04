@@ -1,7 +1,5 @@
 # 💫 About Me
-<p>
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi!;My+name+is+Marcelo+Ferreira;Front-End+Developer;React+%7C+Vue+%7C+Vite+%7C+JavaScript+%7C+TypeScript&font=Fira+Code&size=24&pause=2000&width=768" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Hi!;My+name+is+Marcelo+Ferreira;Front-End+Developer;React+%7C+Vue+%7C+Vite+%7C+JavaScript+%7C+TypeScript&font=Fira+Code&size=24&pause=2000&width=768" alt="Typing SVG" />
 
 ## 🌐 Socials
 <p align="left">
