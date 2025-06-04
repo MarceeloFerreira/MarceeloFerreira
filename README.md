@@ -4,7 +4,7 @@
 </a>
 
 ## 🌐 Socials
-<p align="center">
+<p align="left">
 <a href="https://www.linkedin.com/in/fmarceelo/?locale=en_US" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/fmarceelo/?locale=en_us" height="30" width="40" /></a>
 <a href="https://fb.com/f.marceelo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="f.marceelo" height="30" width="40" /></a>
 <a href="https://instagram.com/maarceeloferreira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="maarceeloferreira" height="30" width="40" /></a>
